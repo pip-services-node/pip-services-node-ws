@@ -1,0 +1,17 @@
+/pip-services-devenv.git
+
+/pip-services-commons-node.git
+/pip-services-components-node.git
+/pip-services-container-node.git	
+/pip-services-test-node.git	
+/pip-services-data-node.git	
+/pip-services-rpc-node.git	
+/pip-services-messaging-node.git	
+/pip-services-facade-node.git	
+/pip-services-elasticsearch-node.git	
+/pip-services-fluentd-node.git	
+/pip-services-memcached-node.git	
+/pip-services-redis-node.git	
+/pip-services-mongodb-node.git	
+/pip-services-prometheus-node.git	
+/pip-services-aws-node.git
