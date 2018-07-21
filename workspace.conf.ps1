@@ -16,5 +16,7 @@ $VersionControlRepos = @(
 	"https://github.com/pip-services-node/pip-services-redis-node.git"	
 	"https://github.com/pip-services-node/pip-services-mongodb-node.git"	
 	"https://github.com/pip-services-node/pip-services-prometheus-node.git"	
+	"https://github.com/pip-services-node/pip-services-seneca-node.git"	
+	"https://github.com/pip-services-node/pip-services-mqtt-node.git"	
 	"https://github.com/pip-services-node/pip-services-aws-node.git"	
 )

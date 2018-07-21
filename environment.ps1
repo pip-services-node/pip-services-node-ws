@@ -13,6 +13,8 @@ $global:All = @(
     "pip-services-fluentd-node"
     "pip-services-mongodb-node"
     "pip-services-prometheus-node"
+    "pip-services-seneca-node"
+    "pip-services-mqtt-node"
     "pip-services-aws-node"
 )
 
